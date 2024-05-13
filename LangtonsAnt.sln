@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LangtonsAnt", "LangtonsAnt\LangtonsAnt.csproj", "{298BEA19-EF3F-4562-81BF-C8834E2A56AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{298BEA19-EF3F-4562-81BF-C8834E2A56AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{298BEA19-EF3F-4562-81BF-C8834E2A56AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{298BEA19-EF3F-4562-81BF-C8834E2A56AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{298BEA19-EF3F-4562-81BF-C8834E2A56AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BFD81F3B-5FA5-41EB-8D80-7FF4FE493AD4}
+	EndGlobalSection
+EndGlobal

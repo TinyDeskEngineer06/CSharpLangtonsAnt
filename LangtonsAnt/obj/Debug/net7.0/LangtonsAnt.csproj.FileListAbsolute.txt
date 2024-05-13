@@ -1,0 +1,15 @@
+/Users/1249521/Projects/LangtonsAnt/LangtonsAnt/bin/Debug/net7.0/LangtonsAnt
+/Users/1249521/Projects/LangtonsAnt/LangtonsAnt/bin/Debug/net7.0/LangtonsAnt.deps.json
+/Users/1249521/Projects/LangtonsAnt/LangtonsAnt/bin/Debug/net7.0/LangtonsAnt.runtimeconfig.json
+/Users/1249521/Projects/LangtonsAnt/LangtonsAnt/bin/Debug/net7.0/LangtonsAnt.dll
+/Users/1249521/Projects/LangtonsAnt/LangtonsAnt/bin/Debug/net7.0/LangtonsAnt.pdb
+/Users/1249521/Projects/LangtonsAnt/LangtonsAnt/obj/Debug/net7.0/LangtonsAnt.csproj.AssemblyReference.cache
+/Users/1249521/Projects/LangtonsAnt/LangtonsAnt/obj/Debug/net7.0/LangtonsAnt.GeneratedMSBuildEditorConfig.editorconfig
+/Users/1249521/Projects/LangtonsAnt/LangtonsAnt/obj/Debug/net7.0/LangtonsAnt.AssemblyInfoInputs.cache
+/Users/1249521/Projects/LangtonsAnt/LangtonsAnt/obj/Debug/net7.0/LangtonsAnt.AssemblyInfo.cs
+/Users/1249521/Projects/LangtonsAnt/LangtonsAnt/obj/Debug/net7.0/LangtonsAnt.csproj.CoreCompileInputs.cache
+/Users/1249521/Projects/LangtonsAnt/LangtonsAnt/obj/Debug/net7.0/LangtonsAnt.dll
+/Users/1249521/Projects/LangtonsAnt/LangtonsAnt/obj/Debug/net7.0/refint/LangtonsAnt.dll
+/Users/1249521/Projects/LangtonsAnt/LangtonsAnt/obj/Debug/net7.0/LangtonsAnt.pdb
+/Users/1249521/Projects/LangtonsAnt/LangtonsAnt/obj/Debug/net7.0/LangtonsAnt.genruntimeconfig.cache
+/Users/1249521/Projects/LangtonsAnt/LangtonsAnt/obj/Debug/net7.0/ref/LangtonsAnt.dll
